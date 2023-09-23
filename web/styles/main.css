@@ -1,0 +1,58 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : Sep 22, 2023, 10:32:53 AM
+    Author     : admin
+*/
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 11pt;
+    margin-left: 2em;
+    margin-right: 2em;
+}
+h1{
+    font-size: 20pt;
+    color: teal;
+}
+h2, h3{
+    font-size: 15pt;
+    color: teal;
+}
+label{
+    float: left;
+    width: 6em;
+}
+input[type="text"], input[type="email"], input[type="date"]{
+    width: 15em;
+    margin-left: 0.5em;
+    margin-bottom: 0.5em;
+}
+br{
+    clear:both;
+}
+#submit{
+    margin-left: 0.5em;
+}
+/* The styles for the classes */
+/*.pad_top {
+    padding-top: 0.25em;
+}
+.margin_left {
+    margin-left: 0.5em;
+}*/
+
+/* The styles for a table */
+/*table {
+    border: 1px solid black;
+    border-collapse: collapse;   
+}
+th, td {
+    border: 1px solid black;
+    text-align: left;
+    padding: .5em;
+}
+.right {
+    text-align: right;
+}*/
